@@ -1,1 +1,1 @@
-# agregamos mercaderia nueva
+# mercaderia actualizada
