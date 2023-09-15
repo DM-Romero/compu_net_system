@@ -1,0 +1,25 @@
+[
+    {
+      "id": 1,
+      "marca": "NVidia",
+      "RAM": 2,
+      "precio": 35,
+      "modelo": "GT GeForce 730"
+    },
+    {
+      "id": 2,
+      "marca": "NVidia",
+      "RAM": 4,
+      "precio": 90,
+      "modelo": "GT 1050ti"
+    },
+    {
+      "id": 3,
+      "marca": "Radeon",
+      "RAM": 3.5,
+      "precio": 20,
+      "modelo": "HD Radeon 5920"
+     
+    }
+  
+  ]
