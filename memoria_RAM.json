@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "marca": "Kingston",
+        "modelo": "Value 3200",
+        "tipo": "DDR4",
+        "capacidad": "8gb",
+        "precio": 18999
+    },
+    {
+        "id": 2,
+        "marca": "Spectrix",
+        "modelo": "Xpg 3200",
+        "tipo": "DDR4",
+        "capacidad": "8gb",
+        "precio": 22999
+    },
+    {
+        "id": 3,
+        "marca": "Kingston",
+        "modelo": "Fury Beast",
+        "tipo": "DDR5",
+        "capacidad": "16gb",
+        "precio": 89999
+    }
+]
